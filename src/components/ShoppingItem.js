@@ -4,9 +4,11 @@ import { Text, View, StyleSheet } from "react-native";
 const DATA = [
 	{
 		title: "Eggs",
+    key: "1"
 	},
 	{
 		title: "Bacon",
+    key: "2"
 	}
 ];
 	
